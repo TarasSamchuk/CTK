@@ -1,0 +1,7 @@
+    list1 = ['Usename', 'Password', 'block', 'restriction']
+    list2 = ['Admin', '4', False, '1']
+    list3 = ['na', '5', False, '1']
+    list4 = ['so', '6', False, '1']
+    list5 = ['re', '2', False, '1']
+    list6 = ['fd', '23', True, '1']
+    list7 = ['ta', '3', False, '0']
